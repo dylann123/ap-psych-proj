@@ -1,0 +1,42 @@
+{
+	"Hypothalamus": {
+		"function" : "Controls body temperature, hunger, thirst, fatigue, anger, and circadian cycles.",
+		"usage": "Martin Luther King would use the hypothalamus to control his anger and fatigue during the civil rights movement."
+	},
+	"Pons": {
+		"function" : "Connects the upper and lower parts of the brain.",
+		"usage": "Martin Luther King would use the pons to connect his upper and lower brain to help him think of new ideas."
+	},
+	"Medulla": {
+		"function" : "Controls breathing, heart rate, and blood pressure.",
+		"usage": "Martin Luther King would use the medulla to control his breathing and heart rate during his speeches."
+	},
+	"Frontal Lobe": {
+		"function" : "Controls reasoning, planning, parts of speech, movement, emotions, and problem solving.",
+		"usage": "Martin Luther King would use the frontal lobe to plan his speeches and solve problems."
+	},
+	"Parietal Lobe": {
+		"function" : "Controls movement, orientation, recognition, perception of stimuli.",
+		"usage": "Martin Luther King would use the parietal lobe to recognize the people he was speaking to."
+	},
+	"Occipital Lobe": {
+		"function" : "Controls visual processing.",
+		"usage": "Martin Luther King would use the occipital lobe to process the visual stimuli of the people he was speaking to."
+	},
+	"Thalamus": {
+		"function" : "Controls relaying motor and sensory signals to the cerebral cortex.",
+		"usage": "Martin Luther King would use the thalamus to relay his motor and sensory signals to his cerebral cortex to help him speak."
+	},
+	"Pituitary Gland": {
+		"function" : "Controls growth and development, metabolism, and homeostasis.",
+		"usage": "Martin Luther King would use the pituitary gland to control his growth and development."
+	},
+	"Brain Stem": {
+		"function" : "Controls breathing, heart rate, and blood pressure.",
+		"usage": "Martin Luther King would use the brain stem to control his breathing and heart rate during his speeches."
+	},
+	"Cerebellum": {
+		"function" : "Controls motor control, balance, and coordination.",
+		"usage": "Martin Luther King would use the cerebellum to control his motor control and balance during his speeches."
+	}
+}

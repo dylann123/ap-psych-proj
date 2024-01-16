@@ -1,0 +1,82 @@
+#body{
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	background-color: lightgrey;
+	width: 100vw;
+	height: 100vh;
+	border: 1px solid black;
+	position: relative;
+}
+
+#buttons{
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	width: 100%;
+	height: 50px;
+	z-index: 99999;
+
+}
+
+#buttons button{
+	width: 100px;
+	height: 50px;
+	transition: 0.5s;
+	opacity: 0;
+	display: none;
+	z-index: 5;
+}
+
+#descriptor{
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	transition: 0.5s;
+	font-size: x-large;
+	opacity: 0;
+}
+
+body{
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	background-color: lightgrey;
+}
+
+#mlk{
+	top: -30px;
+	left: -130px;
+	position: absolute;
+	width: 110%;
+	transition: 1s;
+}
+
+#brain{
+	position: absolute;
+	top: -30px;
+	left: -130px;
+	width: 150%;
+	transition: 1s;
+	opacity: 0;
+}
+
+.brainpart{
+	position: absolute;
+	top: -30px;
+	left: -130px;
+	width: 150%;
+	transition: 1s;
+	opacity: 0;
+	z-index: 9999;
+}
+
+.title{
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	width: 100%;
+	height: 50px;
+	transition: 0.5s;
+}
