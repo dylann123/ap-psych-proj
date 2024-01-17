@@ -35,7 +35,11 @@
 	transform: translate(-50%, -50%);
 	transition: 0.5s;
 	font-size: x-large;
+	font-weight: bold;
 	opacity: 0;
+	background-color: white;
+	padding: 10px;
+	border: 1px solid black;
 }
 
 body{
